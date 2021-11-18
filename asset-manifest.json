@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/phongtd28.github.io/sotatek-todolist/static/css/main.1a0e41f7.chunk.css",
+    "main.js": "/phongtd28.github.io/sotatek-todolist/static/js/main.523c502d.chunk.js",
+    "main.js.map": "/phongtd28.github.io/sotatek-todolist/static/js/main.523c502d.chunk.js.map",
+    "runtime-main.js": "/phongtd28.github.io/sotatek-todolist/static/js/runtime-main.4a3b8ebb.js",
+    "runtime-main.js.map": "/phongtd28.github.io/sotatek-todolist/static/js/runtime-main.4a3b8ebb.js.map",
+    "static/css/2.58b41ad5.chunk.css": "/phongtd28.github.io/sotatek-todolist/static/css/2.58b41ad5.chunk.css",
+    "static/js/2.1282cd0c.chunk.js": "/phongtd28.github.io/sotatek-todolist/static/js/2.1282cd0c.chunk.js",
+    "static/js/2.1282cd0c.chunk.js.map": "/phongtd28.github.io/sotatek-todolist/static/js/2.1282cd0c.chunk.js.map",
+    "static/js/3.eb847edd.chunk.js": "/phongtd28.github.io/sotatek-todolist/static/js/3.eb847edd.chunk.js",
+    "static/js/3.eb847edd.chunk.js.map": "/phongtd28.github.io/sotatek-todolist/static/js/3.eb847edd.chunk.js.map",
+    "index.html": "/phongtd28.github.io/sotatek-todolist/index.html",
+    "static/css/2.58b41ad5.chunk.css.map": "/phongtd28.github.io/sotatek-todolist/static/css/2.58b41ad5.chunk.css.map",
+    "static/css/main.1a0e41f7.chunk.css.map": "/phongtd28.github.io/sotatek-todolist/static/css/main.1a0e41f7.chunk.css.map",
+    "static/js/2.1282cd0c.chunk.js.LICENSE.txt": "/phongtd28.github.io/sotatek-todolist/static/js/2.1282cd0c.chunk.js.LICENSE.txt",
+    "static/media/Ring-Loading.85872126.gif": "/phongtd28.github.io/sotatek-todolist/static/media/Ring-Loading.85872126.gif",
+    "static/media/logo.6ce24c58.svg": "/phongtd28.github.io/sotatek-todolist/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4a3b8ebb.js",
+    "static/css/2.58b41ad5.chunk.css",
+    "static/js/2.1282cd0c.chunk.js",
+    "static/css/main.1a0e41f7.chunk.css",
+    "static/js/main.523c502d.chunk.js"
+  ]
+}
